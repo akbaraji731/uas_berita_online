@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "message": null,
+  "data": {
+    "link": "https://www.cnnindonesia.com/",
+    "description": "CNNIndonesia.com menyajikan berita terbaru, terkini Indonesia seputar nasional, politik, ekonomi, internasional, olahraga, teknologi, hiburan, gaya hidup",
+    "title": "CNN Indonesia | Berita Terbaru, Terkini Indonesia, Dunia",
+    "image": "https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png",
+    "posts": [
+      {
+        "link": "https://www.cnnindonesia.com/nasional/20240110165215-12-1047761/ppatk-3667-persen-duit-proyek-strategis-masuk-kantong-asn-politisi",
+        "title": "PPATK: 36,67 Persen Duit Proyek Strategis Masuk Kantong ASN-Politisi",
+        "pubDate": "2024-01-10T10:11:46.000Z",
+        "description": "Plt Deputi Analisis dan Pemeriksaan PPATK mengatakan temuan pihaknya terkait dana Proyek Strategis NAsional (PSN) itu telah ditindaklanjuti penegak hukum.",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2018/07/25/56921e28-fdae-44f8-9531-539b6c204cf9_169.jpeg?w=360&q=90"
+      },
+      {
+        "link": "https://www.cnnindonesia.com/olahraga/20240110165204-170-1047764/hasil-malaysia-open-duel-panas-1-jam-14-menit-gregoria-ke-16-besar",
+        "title": "Hasil Malaysia Open: Duel Panas 1 Jam 14 Menit, Gregoria ke 16 Besar",
+        "pubDate": "2024-01-10T10:06:32.000Z",
+        "description": "Gregoria Mariska berhasil melaju ke babak 16 besar Malaysia Open 2024 usai mengalahkan Natsuki Nidaira dengan skor 20-22, 21-18, 21-14.",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2023/12/13/gregoria-mariska-tunjung-saat-berlaga-di-bwf-world-tour-finals-2_169.jpeg?w=360&q=90"
+      },
+      {
+        "link": "https://www.cnnindonesia.com/nasional/20240110162545-20-1047744/menkes-premi-bpjs-korban-gagal-ginjal-akut-anak-ditanggung-pemerintah",
+        "title": "Menkes: Premi BPJS Korban Gagal Ginjal Akut Anak Ditanggung Pemerintah",
+        "pubDate": "2024-01-10T10:05:48.000Z",
+        "description": "Pemerintah memastikan seluruh korban Gagal Ginjal Akut Progresif Atifikal (GGAPA) pada anak akan mendapatkan layanan kesehatan secara gratis.",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2023/02/06/ilustrasi-obat-sirop-2_169.jpeg?w=360&q=90"
+      }
+    ]
+  }
+}
